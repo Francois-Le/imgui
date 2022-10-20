@@ -27,7 +27,7 @@ ipch
 *.VC.VC.opendb
 
 ## Commonly used CMake directories
-/build*/
+#/build*/
 
 ## Xcode artifacts
 project.xcworkspace
